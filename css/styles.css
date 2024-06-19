@@ -1,0 +1,37 @@
+body {
+    font-family: "Roboto", "Raleway", sans-serif;
+    color: #212121;
+    background-color: #FFFFFF;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.section-title {
+  font-size: 36px;
+  font-weight: 700;
+  text-align: center;
+  line-height: 40px;
+  letter-spacing: 2%;
+  color: #2E2F42;
+}
+
+.title {
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 2%;
+text-align: left;
+color: #2E2F42;
+}
+
+.text {
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 2%;
+text-align: left;
+color: #434455;
+}
+
