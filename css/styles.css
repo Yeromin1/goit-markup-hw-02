@@ -109,7 +109,7 @@ h2 {
   background-color: #F4F4FD;
   }
 
-.team-list {
+.team-list .team {
   background-color: #FFFFFF;
   }
 
@@ -128,7 +128,7 @@ h2 {
   color: #434455;
 }
 
-.logo-accent2 {
+.logo-accent-footer {
   color: #F4F4FD;
 }
 
